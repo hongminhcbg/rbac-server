@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 123,
+            "name": "minhnh21",
+            "meta_data":{
+                "key":"value"
+            }
+        },
+        {
+            "id": 123,
+            "name": "minhnh21",
+            "meta_data":{
+                "key":"value"
+            }
+        }        
+    ],
+    "token": "ZmRzZmRmc2Rmc2Q"
+}
